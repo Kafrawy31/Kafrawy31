@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmedmed</h1>
 <h3 align="center">An aspiring machine learning engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kafrawy31&title=-Stars,-Followers,-Issues,-PullRequests,-Reviews" alt="kafrawy31" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kafrawy31&title=-Stars,-Followers,-Issues,-PullRequest,-Reviews" alt="kafrawy31" /></a> </p>
 
 - 🔭 I’m currently working on **E2E anomaly detection in production**
 
