@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kafrawy31&title=-Stars,-Followers,-Issues,-PullRequest,-Reviews" alt="kafrawy31" /></a> </p>
 
-- 🔭 I’m currently working on **E2E anomaly detection in production**
+- 🔭 I’m currently working on **E2E defect detection in production**
 
-- 🌱 I’m currently honing **MySql, PowerBi and Power automate**
+- 🌱 I’m currently honing my **postGres, PowerBi and Power automate skills**
 
 - 🤝 The project I'm most proud of is **my football predictor study**
 
